@@ -207,7 +207,9 @@ node --debug-brk `which protractor` conf.js
 node --debug-brk [protractor.exeのパス] conf.js 
 ```
 
-Access Node inspector [http://127.0.0.1:8080/debug?port=5858](http://127.0.0.1:8080/debug?port=5858)
+上のコマンドを実行し終わったらnode-inspectorのURL [http://127.0.0.1:8080/debug?port=5858](http://127.0.0.1:8080/debug?port=5858)にアクセスしてみてください。
+
+デバッグ実行がGUIで可能になります。
 
 ### spec.js 
 
