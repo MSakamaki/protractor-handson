@@ -27,7 +27,7 @@ protractorのデバッグ方法は大きく分けて２つあります。
 ### 実行コマンド
 
 ```sh
-protractor debug conf.js
+protractor conf.js
 ```
 
 ### spec.js
