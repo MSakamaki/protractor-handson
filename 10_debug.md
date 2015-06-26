@@ -6,11 +6,11 @@
 
 protractorのデバッグ方法は大きく分けて２つあります。
 
-`protractor.pause();`
+`browser.pause();`
 
 を使う方法と
 
-`protractor.debugger();`
+`browser.debugger();`
 
 を使う方法です。
 
